@@ -11,4 +11,4 @@ Implementing RNA-seq workflow using different data structures and algorithms.
 
 ## Setup
 
-1. install SRA toolkit --conda install -c bioconda sra-tools--
+1. install SRA toolkit conda install -c bioconda sra-tools
