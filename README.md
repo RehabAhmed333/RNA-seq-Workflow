@@ -1,14 +1,8 @@
-# RNA-seq-Workflow
+# Target sequence search using Binary Search Tree (BST)
 
-Implementing RNA-seq workflow using different data structures and algorithms.
+## Usage 
 
-## Create and clone the repository
-
-1. Log in to GitHub account.
-2. Add a "New repository"
-3. Open the terminal and navigate to the directory where you want to clone the repository.
-4. Type "git clone" and paste the URL copied from GitHub.
-
-## Setup
-
-1. install SRA toolkit `conda install -c bioconda sra-tools`
+- It is challenging to search for a specific DNA sequence within a larger sequence due to the large size and complexity of DNA data.
+- Genetic analysis: mutations. 
+- Diagnostic testing: genes associated with certain diseases
+- Forensic Analysis: DNA obtained from crime scenes
